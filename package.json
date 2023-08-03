@@ -1,0 +1,17 @@
+{
+  "name": "fe52-onl-front-end-ihnatsenka-aliaksandr",
+  "version": "1.0.0",
+  "description": "Landing-2",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
+    "parcel": "^2.9.3"
+  }
+}
